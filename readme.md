@@ -1,0 +1,1 @@
+smallwebb is an approach on building a decentralized web that is free of trackers, ads, clickbait and social media. Its supposed to bring back what the original web was supposed to be. Imagine looking for a file converter online and there is a truly private one that lets you just do your stuff without asking for your data or asking you to pay.
